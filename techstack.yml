@@ -1,0 +1,507 @@
+repo_name: LokeshJonnakuti/black-dashboard-django
+report_id: f7a66837b8bdb069f1f3efdee6304422
+version: 0.1
+repo_type: Public
+timestamp: '2024-04-14T10:54:46+00:00'
+requested_by: app-generator
+provider: github
+branch: master
+detected_tools_count: 34
+tools:
+- name: CSS 3
+  description: The latest evolution of the Cascading Style Sheets language
+  website_url: https://developer.mozilla.org/en-US/docs/Web/CSS/CSS3
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/6727/css.png
+  detection_source_url: https://github.com/LokeshJonnakuti/black-dashboard-django
+  detection_source: Repo Metadata
+- name: JavaScript
+  description: Lightweight, interpreted, object-oriented language with first-class
+    functions
+  website_url: https://developer.mozilla.org/en-US/docs/Web/JavaScript
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/1209/javascript.jpeg
+  detection_source_url: https://github.com/LokeshJonnakuti/black-dashboard-django
+  detection_source: Repo Metadata
+- name: Python
+  description: A clear and powerful object-oriented programming language, comparable
+    to Perl, Ruby, Scheme, or Java.
+  website_url: https://www.python.org
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/993/pUBY5pVj.png
+  detection_source_url: https://github.com/LokeshJonnakuti/black-dashboard-django
+  detection_source: Repo Metadata
+- name: Sass
+  description: Syntactically Awesome Style Sheets
+  website_url: http://sass-lang.com/
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: CSS Pre-processors / Extensions
+  image_url: https://img.stackshare.io/service/1171/jCR2zNJV.png
+  detection_source_url: https://github.com/LokeshJonnakuti/black-dashboard-django/blob/master/apps/static/assets/package.json
+  detection_source: apps/static/assets/package.json
+  last_updated_by: App Generator
+  last_updated_on: 2023-01-26 16:17:11.000000000 Z
+- name: Docker
+  description: Enterprise Container Platform for High-Velocity Innovation.
+  website_url: https://www.docker.com/
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Virtual Machine Platforms & Containers
+  image_url: https://img.stackshare.io/service/586/n4u37v9t_400x400.png
+  detection_source_url: https://github.com/LokeshJonnakuti/black-dashboard-django
+  detection_source: Repo Metadata
+- name: Git
+  description: Fast, scalable, distributed revision control system
+  website_url: http://git-scm.com/
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Version Control System
+  image_url: https://img.stackshare.io/service/1046/git.png
+  detection_source_url: https://github.com/LokeshJonnakuti/black-dashboard-django
+  detection_source: Repo Metadata
+- name: NGINX
+  description: A high performance free open source web server powering busiest sites
+    on the Internet.
+  website_url: http://nginx.org
+  open_source: false
+  hosted_saas: false
+  category: Application Hosting
+  sub_category: Web Servers
+  image_url: https://img.stackshare.io/service/1052/YMxUfyWf.png
+  detection_source_url: https://github.com/LokeshJonnakuti/black-dashboard-django/blob/master/docker-compose.yml
+  detection_source: docker-compose.yml
+  last_updated_by: App Generator
+  last_updated_on: 2023-01-26 16:17:11.000000000 Z
+- name: PyPI
+  description: A repository of software for the Python programming language
+  website_url: https://pypi.org/
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Hosted Package Repository
+  image_url: https://img.stackshare.io/service/12572/-RIWgodF_400x400.jpg
+  detection_source_url: https://github.com/LokeshJonnakuti/black-dashboard-django/blob/master/requirements.txt
+  detection_source: requirements.txt
+  last_updated_by: App Generator
+  last_updated_on: 2023-01-26 16:17:11.000000000 Z
+- name: gulp
+  description: The streaming build system
+  website_url: http://gulpjs.com/
+  version: 4.0.2
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: JS Build Tools / JS Task Runners
+  image_url: https://img.stackshare.io/service/844/iruTC031.png
+  detection_source_url: https://github.com/LokeshJonnakuti/black-dashboard-django/blob/master/apps/static/assets/package.json
+  detection_source: apps/static/assets/package.json
+  last_updated_by: App Generator
+  last_updated_on: 2023-01-26 16:17:11.000000000 Z
+- name: npm
+  description: The package manager for JavaScript.
+  website_url: https://www.npmjs.com/
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Front End Package Manager
+  image_url: https://img.stackshare.io/service/1120/lejvzrnlpb308aftn31u.png
+  detection_source_url: https://github.com/LokeshJonnakuti/black-dashboard-django/blob/master/apps/static/assets/package.json
+  detection_source: apps/static/assets/package.json
+  last_updated_by: App Generator
+  last_updated_on: 2023-01-26 16:17:11.000000000 Z
+- name: node-sass
+  description: Wrapper around libsass
+  package_url: https://www.npmjs.com/node-sass
+  version: 6.0.1
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15827/default_db4a7791d2f1174547374b9b587bc10fec088a5a.png
+  detection_source_url: https://github.com/LokeshJonnakuti/black-dashboard-django/blob/master/apps/static/assets/package.json
+  detection_source: apps/static/assets/package.json
+  last_updated_by: App Generator
+  last_updated_on: 2023-01-26 16:17:11.000000000 Z
+  vulnerabilities:
+  - name: Improper Certificate Validation in node-sass
+    cve_id: CVE-2020-24025
+    cve_url: https://github.com/advisories/GHSA-r8f7-9pfq-mjmv
+    detected_date: Feb 10
+    severity: moderate
+    first_patched: 7.0.0
+- name: browser-sync
+  description: Live CSS Reload &amp; Browser Syncing
+  package_url: https://www.npmjs.com/browser-sync
+  version: 2.27.4
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16034/default_a9b6ac3c2fe43713f9a8e43d4668d0352ad0d247.png
+  detection_source_url: https://github.com/LokeshJonnakuti/black-dashboard-django/blob/master/apps/static/assets/package.json
+  detection_source: apps/static/assets/package.json
+  last_updated_by: App Generator
+  last_updated_on: 2023-01-26 16:17:11.000000000 Z
+- name: del
+  description: Delete files and directories
+  package_url: https://www.npmjs.com/del
+  version: 6.0.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15907/default_a582b9fecca65f37fe68520c8f84d3bcae35db24.png
+  detection_source_url: https://github.com/LokeshJonnakuti/black-dashboard-django/blob/master/apps/static/assets/package.json
+  detection_source: apps/static/assets/package.json
+  last_updated_by: App Generator
+  last_updated_on: 2023-01-26 16:17:11.000000000 Z
+- name: gulp-autoprefixer
+  description: Prefix CSS
+  package_url: https://www.npmjs.com/gulp-autoprefixer
+  version: 8.0.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16090/default_8725384794b44fe56f31da1d21ae759cf07be7a5.png
+  detection_source_url: https://github.com/LokeshJonnakuti/black-dashboard-django/blob/master/apps/static/assets/package.json
+  detection_source: apps/static/assets/package.json
+  last_updated_by: App Generator
+  last_updated_on: 2023-01-26 16:17:11.000000000 Z
+- name: gulp-clean-css
+  description: Minify css with clean-css
+  package_url: https://www.npmjs.com/gulp-clean-css
+  version: 4.3.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16301/default_3b7197abc4df3d7fa7c5292f17b2e6fb0cd1c8d4.png
+  detection_source_url: https://github.com/LokeshJonnakuti/black-dashboard-django/blob/master/apps/static/assets/package.json
+  detection_source: apps/static/assets/package.json
+  last_updated_by: App Generator
+  last_updated_on: 2023-01-26 16:17:11.000000000 Z
+- name: gulp-header
+  description: Gulp extension to add header to file
+  package_url: https://www.npmjs.com/gulp-header
+  version: 2.0.9
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16259/default_9924e5da1d50ea01e52b48e4fae4b1347af5e4ff.png
+  detection_source_url: https://github.com/LokeshJonnakuti/black-dashboard-django/blob/master/apps/static/assets/package.json
+  detection_source: apps/static/assets/package.json
+  last_updated_by: App Generator
+  last_updated_on: 2023-01-26 16:17:11.000000000 Z
+- name: gulp-htmlmin
+  description: Gulp plugin to minify HTML
+  package_url: https://www.npmjs.com/gulp-htmlmin
+  version: 5.0.1
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16821/default_9a5182350af29cb82b3344853e865051f508ac6c.png
+  detection_source_url: https://github.com/LokeshJonnakuti/black-dashboard-django/blob/master/apps/static/assets/package.json
+  detection_source: apps/static/assets/package.json
+  last_updated_by: App Generator
+  last_updated_on: 2023-01-26 16:17:11.000000000 Z
+- name: gulp-plumber
+  description: Prevent pipe breaking caused by errors from gulp plugins
+  package_url: https://www.npmjs.com/gulp-plumber
+  version: 1.2.1
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16033/default_72d4237e6719b7d75d0307bf8b5718584fdc3425.png
+  detection_source_url: https://github.com/LokeshJonnakuti/black-dashboard-django/blob/master/apps/static/assets/package.json
+  detection_source: apps/static/assets/package.json
+  last_updated_by: App Generator
+  last_updated_on: 2023-01-26 16:17:11.000000000 Z
+- name: gulp-rename
+  description: Rename files
+  package_url: https://www.npmjs.com/gulp-rename
+  version: 2.0.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15895/default_e4668902f8489350db9b0fb228523a571ef05b26.png
+  detection_source_url: https://github.com/LokeshJonnakuti/black-dashboard-django/blob/master/apps/static/assets/package.json
+  detection_source: apps/static/assets/package.json
+  last_updated_by: App Generator
+  last_updated_on: 2023-01-26 16:17:11.000000000 Z
+- name: gulp-sass
+  description: Gulp plugin for sass
+  package_url: https://www.npmjs.com/gulp-sass
+  version: 5.0.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16002/default_f8be85789693a9901dbcfa43c135c60525ae49a1.png
+  detection_source_url: https://github.com/LokeshJonnakuti/black-dashboard-django/blob/master/apps/static/assets/package.json
+  detection_source: apps/static/assets/package.json
+  last_updated_by: App Generator
+  last_updated_on: 2023-01-26 16:17:11.000000000 Z
+- name: gulp-sourcemaps
+  description: Source map support for Gulp.js
+  package_url: https://www.npmjs.com/gulp-sourcemaps
+  version: 3.0.0
+  license: ISC
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15958/default_4040fefea2f98006727f63d042275b96a275ab2d.png
+  detection_source_url: https://github.com/LokeshJonnakuti/black-dashboard-django/blob/master/apps/static/assets/package.json
+  detection_source: apps/static/assets/package.json
+  last_updated_by: App Generator
+  last_updated_on: 2023-01-26 16:17:11.000000000 Z
+- name: gulp-uglify
+  description: Minify files with UglifyJS
+  package_url: https://www.npmjs.com/gulp-uglify
+  version: 3.0.2
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15910/default_e0a4fb1126d7400f419f0931cf1669947a5bc552.png
+  detection_source_url: https://github.com/LokeshJonnakuti/black-dashboard-django/blob/master/apps/static/assets/package.json
+  detection_source: apps/static/assets/package.json
+  last_updated_by: App Generator
+  last_updated_on: 2023-01-26 16:17:11.000000000 Z
+- name: merge-stream
+  description: Create a stream that emits events from multiple other streams
+  package_url: https://www.npmjs.com/merge-stream
+  version: 2.0.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16419/default_d73092129e1cde5ea9f47f22e2d7c3db7bd6da8d.png
+  detection_source_url: https://github.com/LokeshJonnakuti/black-dashboard-django/blob/master/apps/static/assets/package.json
+  detection_source: apps/static/assets/package.json
+  last_updated_by: App Generator
+  last_updated_on: 2023-01-26 16:17:11.000000000 Z
+- name: Django
+  description: A high-level Python Web framework that encourages rapid development
+    and clean
+  package_url: https://pypi.org/project/Django
+  version: 3.2.16
+  license: BSD-3-Clause
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: PyPI Packages
+  image_url: https://img.stackshare.io/package/19832/default_58dbe7b4d7ec447b62773209af0f9a31bbabf5bd.png
+  detection_source_url: https://github.com/LokeshJonnakuti/black-dashboard-django/blob/master/requirements.txt
+  detection_source: requirements.txt
+  last_updated_by: App Generator
+  last_updated_on: 2023-01-26 16:17:11.000000000 Z
+  vulnerabilities:
+  - name: Django bypasses validation when using one form field to upload multiple
+      files
+    cve_id: CVE-2023-31047
+    cve_url: https://github.com/advisories/GHSA-r3xc-prgr-mg9p
+    detected_date: May 10
+    severity: critical
+    first_patched: 3.2.19
+  - name: Resource exhaustion in Django
+    cve_id: CVE-2023-24580
+    cve_url: https://github.com/advisories/GHSA-2hrw-hx67-34x6
+    detected_date: Feb 16
+    severity: high
+    first_patched: 3.2.18
+  - name: Django has regular expression denial of service vulnerability in EmailValidator/URLValidator
+    cve_id: CVE-2023-36053
+    cve_url: https://github.com/advisories/GHSA-jh3w-4vvf-mjgr
+    detected_date: Jul 6
+    severity: high
+    first_patched: 3.2.20
+  - name: Django potential denial of service vulnerability in UsernameField on Windows
+    cve_id: CVE-2023-46695
+    cve_url: https://github.com/advisories/GHSA-qmf9-6jqf-j8fq
+    detected_date: Apr 4
+    severity: high
+    first_patched: 3.2.23
+- name: sqlparse
+  description: Non-validating SQL parser
+  package_url: https://pypi.org/project/sqlparse
+  version: 0.4.2
+  license: BSD-3-Clause
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: PyPI Packages
+  image_url: https://img.stackshare.io/package/20039/default_a7a70921d2d3189665c78015850dc968f41705a1.png
+  detection_source_url: https://github.com/LokeshJonnakuti/black-dashboard-django/blob/master/requirements.txt
+  detection_source: requirements.txt
+  last_updated_by: App Generator
+  last_updated_on: 2023-01-26 16:17:11.000000000 Z
+  vulnerabilities:
+  - name: sqlparse contains a regular expression that is vulnerable to Regular Expression
+      Denial of Service
+    cve_id: CVE-2023-30608
+    cve_url: https://github.com/advisories/GHSA-rrm6-wvj7-cwh2
+    detected_date: Apr 22
+    severity: moderate
+    first_patched: 0.4.4
+- name: asgiref
+  description: ASGI specs, helper code, and adapters
+  package_url: https://pypi.org/project/asgiref
+  version: 3.4.1
+  license: BSD-3-Clause
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: PyPI Packages
+  image_url: https://img.stackshare.io/package/20739/default_88a4948f616ae7ccb7210803d2bd72b72851b6e9.png
+  detection_source_url: https://github.com/LokeshJonnakuti/black-dashboard-django/blob/master/requirements.txt
+  detection_source: requirements.txt
+  last_updated_by: App Generator
+  last_updated_on: 2023-01-26 16:17:11.000000000 Z
+- name: autopep8
+  description: A tool that automatically formats Python code to conform to the PEP
+    8 style guide
+  package_url: https://pypi.org/project/autopep8
+  version: 1.6.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: PyPI Packages
+  image_url: https://img.stackshare.io/package/20353/default_4fff53bc8c15a9ea5decdac96fdba9b8874b07ce.png
+  detection_source_url: https://github.com/LokeshJonnakuti/black-dashboard-django/blob/master/requirements.txt
+  detection_source: requirements.txt
+  last_updated_by: App Generator
+  last_updated_on: 2023-01-26 16:17:11.000000000 Z
+- name: dj-database-url
+  description: Use Database URLs in your Django Application
+  package_url: https://pypi.org/project/dj-database-url
+  version: 0.5.0
+  license: BSD-2-Clause
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: PyPI Packages
+  image_url: https://img.stackshare.io/package/20428/default_bd9b8499e6f547a7732694c637f33437a8c7ba95.png
+  detection_source_url: https://github.com/LokeshJonnakuti/black-dashboard-django/blob/master/requirements.txt
+  detection_source: requirements.txt
+  last_updated_by: App Generator
+  last_updated_on: 2023-01-26 16:17:11.000000000 Z
+- name: django-environ
+  description: Django-environ allows you to utilize 12factor inspired environment
+    variables to configure your Django application
+  package_url: https://pypi.org/project/django-environ
+  version: 0.8.1
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: PyPI Packages
+  image_url: https://img.stackshare.io/package/20684/default_c0915e70f83a4ff795fa420880db8a76377fceac.png
+  detection_source_url: https://github.com/LokeshJonnakuti/black-dashboard-django/blob/master/requirements.txt
+  detection_source: requirements.txt
+  last_updated_by: App Generator
+  last_updated_on: 2023-01-26 16:17:11.000000000 Z
+- name: gunicorn
+  description: WSGI HTTP Server for UNIX
+  package_url: https://pypi.org/project/gunicorn
+  version: 20.1.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: PyPI Packages
+  image_url: https://img.stackshare.io/package/19931/default_74a0c20721d3a0a1484d69586401591fe8993db2.png
+  detection_source_url: https://github.com/LokeshJonnakuti/black-dashboard-django/blob/master/requirements.txt
+  detection_source: requirements.txt
+  last_updated_by: App Generator
+  last_updated_on: 2023-01-26 16:17:11.000000000 Z
+- name: pycodestyle
+  description: Python style guide checker
+  package_url: https://pypi.org/project/pycodestyle
+  version: 2.8.0
+  license: Saxpath
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: PyPI Packages
+  image_url: https://img.stackshare.io/package/20145/default_a55249b25c76872ebbee6b173a63c5fce36136f9.png
+  detection_source_url: https://github.com/LokeshJonnakuti/black-dashboard-django/blob/master/requirements.txt
+  detection_source: requirements.txt
+  last_updated_by: App Generator
+  last_updated_on: 2023-01-26 16:17:11.000000000 Z
+- name: pytz
+  description: World timezone definitions, modern and historical
+  package_url: https://pypi.org/project/pytz
+  version: '2021.3'
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: PyPI Packages
+  image_url: https://img.stackshare.io/package/19841/default_bb711fa267b2329ed689711a5adb7d9e74610b20.png
+  detection_source_url: https://github.com/LokeshJonnakuti/black-dashboard-django/blob/master/requirements.txt
+  detection_source: requirements.txt
+  last_updated_by: App Generator
+  last_updated_on: 2023-01-26 16:17:11.000000000 Z
+- name: toml
+  description: Python Library for Tom's Obvious, Minimal Language
+  package_url: https://pypi.org/project/toml
+  version: 0.10.2
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: PyPI Packages
+  image_url: https://img.stackshare.io/package/19912/default_bc82f0b22ca8fd942e21c317967f4ab61f43eb2c.png
+  detection_source_url: https://github.com/LokeshJonnakuti/black-dashboard-django/blob/master/requirements.txt
+  detection_source: requirements.txt
+  last_updated_by: App Generator
+  last_updated_on: 2023-01-26 16:17:11.000000000 Z
+- name: whitenoise
+  description: Radically simplified static file serving for WSGI applications
+  package_url: https://pypi.org/project/whitenoise
+  version: 5.3.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: PyPI Packages
+  image_url: https://img.stackshare.io/package/20302/default_e6bfb9eb79752f0f359e80676966e216a56792ab.png
+  detection_source_url: https://github.com/LokeshJonnakuti/black-dashboard-django/blob/master/requirements.txt
+  detection_source: requirements.txt
+  last_updated_by: App Generator
+  last_updated_on: 2023-01-26 16:17:11.000000000 Z
